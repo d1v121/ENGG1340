@@ -8,6 +8,7 @@
 #include <cstdlib> 
 #include <iomanip>
 #include <fstream> 
+#include <sstream>
 #include <ctime> //For the time feature, mainly the sleep() function
 #include <vector> //For dynamic memory management 
 #include <chrono>
