@@ -97,10 +97,10 @@ void new_game_animation(){
             if (linenumber < 83){
                 usleep(45000);
             }
-            else if (linenumber >= 83 && linenumber < 107){
+            else if (linenumber >= 83 && linenumber < 108){
                 usleep(120000);
             }
-            else if (linenumber >= 107 && linenumber < 184){
+            else if (linenumber >= 108 && linenumber < 184){
                 usleep(45000);
             }
             else if (linenumber >= 184 && linenumber < 216){
